@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.1
+
+**[`v1.0.0...v1.0.1`](https://github.com/OxfordAbstracts/vitest-location-mock/compare/v1.0.0...v1.0.1)** - **2024-03-11**
+
+### 🐛 Fix
+
+- relative js imports in output [`5b3f945`](https://github.com/OxfordAbstracts/vitest-location-mock/commit/5b3f945)
+
 ## v1.0.0
 
 **2024-03-07**
